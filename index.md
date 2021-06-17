@@ -1,5 +1,3 @@
-# Electronic Detector Group
-
 We are an experimental particle physics research group in the Physics Department of Brookhaven National Laboratory. Our mission is to explore properties and interactions of the constituents of matter.
 
 ## Current Experiments
