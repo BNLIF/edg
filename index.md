@@ -1,11 +1,30 @@
 # Electronic Detector Group
 
-We are an experimental particle physics research group in the Physics Department of Brookhaven National Laboratory. Our mission is the exploration of properties and interactions of the constituents of matter.
+We are an experimental particle physics research group in the Physics Department of Brookhaven National Laboratory. Our mission is to explore properties and interactions of the constituents of matter.
 
-Our group primarily studies very rare processes at the Intensity Frontier, one of three main research areas in high energy physics, along with the Energy and Cosmic frontiers. Our major current activities are the neutrino experiments: Daya Bay in China, LBNE in the Homestake mine in South Dakota and MINOS at FNAL. We continue to produce results from the very rare kaon decay experiment E949 at BNL and are pushing for a new experiment called ORKA at FNAL. We also participate in the rare pion decay experiment PIENU at TRIUMF and in the Cosmic frontier experiment, LSST in Chile. We are also involved in detector development: primarily water-based liquid scintillator with our colleagues in the Chemistry Department, LAr R&D with our colleagues in Physics as well as scintillator and Cherenkov detectors for kaon experiments.
+## Current Experiments
 
+- Deep Underground Neutrino Experiment ([DUNE](https://www.dunescience.org/))
+- Short-baseline Neutrino Program ([SBN](https://sbn.fnal.gov/))   
+  - [MicroBooNE](http://www-microboone.fnal.gov/)
+  - [ICARUS](https://icarus.fnal.gov/)
+  - [SBND](https://sbn-nd.fnal.gov/)
+- [Belle II](https://www.bnl.gov/belle2/)
+- [Daya Bay](https://www.bnl.gov/newsroom/tags/tags.php?tag=daya+bay)
+- [PROSPECT](https://prospect.yale.edu/)
+- [Muon g-2](http://muon-g-2.fnal.gov/)
 
-Our group recently joined the Belle II collaboration. Belle II, the first super B-Factory experiment, is designed to study the New Physics beyond the Standard Model of Particle Physics. This may help to explain why the universe today appears to be made entirely of matter with no antimatter. The Belle II is the successor of Belle experiment, and is currently being commissioned at KEK laboratory in Tsukuba, Japan and is scheduled to start taking physics data in early 2018. Our group’s interests are studying the CP violation, rare decays of B and D mesons and exotic states.
+## R&D Projects
+- Liquid Argon Technology ([LAr@BNL](https://lar.bnl.gov/))
+- Water-based Liquid Scintillator
 
-Our group newly joined the ICARUS collaboration. The ICARUS neutrino detector measures 65 feet long and weighs 760 tons. It began its life in Gran Sasso Laboratory in Italy, seeking out elusive particles using pioneering technology. It later spent two years undergoing upgrades at CERN, the European particle physics laboratory and home of the Large Hadron Collider. It moved to Fermilab in 2017 and was installed in its detector hall in 2018, where along with the new Cosmic Ray Tagger it forms the far detector for the Short-Baseline Neutrino program. The ICARUS collaboration is investigating signs of physics that may point to a new kind of neutrino called the sterile neutrino. Other experiments have made measurements that suggest a departure from the standard three-neutrino model. ICARUS is also investigating the various probabilities of a neutrino interacting with different types of matter as well as neutrino-related astrophysics topics.
+## Software and Computing
+- [Wire-Cell](https://lar.bnl.gov/wire-cell/)
+- [Machine Learning](https://lar.bnl.gov/ml/)
+
+## Past Experiments
+- MINOS
+- [E949](https://www.phy.bnl.gov/e949/)
+- [E787](https://www.phy.bnl.gov/e787/e787.html)
+
 
