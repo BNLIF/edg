@@ -21,6 +21,11 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
+        
+        {% if site.people %}
+        <p class="view"><a href="{{ site.people }}">People</a></p>
+        {% endif %}
 
          
         {% if site.github.is_project_page %}
