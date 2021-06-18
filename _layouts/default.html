@@ -23,20 +23,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         
-        {% if site.people %}
         <p class="view">
-          <a href="{{ site.people }}">People</a><br />
+          <i class="fa fa-user"></i> <a href="{{ site.people }}">People</a><br />
           <a href="{{ site.news }}">News</a><br />
           <a href="{{ site.publications }}">Publications</a>
-        </p>
-        {% endif %}
-        
-        {% if site.news %}
-        <p class="view"><a href="{{ site.news }}">News</a></p>
-        {% endif %}
-        
-        <p class="view"><a href="https://docs.google.com/document/d/e/2PACX-1vQlFYyLXDoIAqKokFuQy13LO6yGX4Z6SPU2EUjBf7zS3YsMB9gDasYznWaKW59DW5bK4NfW6ZqdnACx/pub">Publications</a></p>
-        
+        </p>          
 
         
         {% if site.github.is_project_page %}
