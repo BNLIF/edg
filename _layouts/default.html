@@ -33,10 +33,10 @@
         
         <p class="view"><a href="https://docs.google.com/document/d/e/2PACX-1vQlFYyLXDoIAqKokFuQy13LO6yGX4Z6SPU2EUjBf7zS3YsMB9gDasYznWaKW59DW5bK4NfW6ZqdnACx/pub">Publications</a></p>
         
-        <div class="list-group">
-        <a href="{{ site.people }}" class="list-group-item list-group-item-action active">People</a>
-        <a href="{{ site.news }}" class="list-group-item list-group-item-action">News</a>
-        <a href="{{ site.publications }}" class="list-group-item list-group-item-action">Publications</a>
+        <ul class="downloads">
+          <li><a href="{{ site.people }}">People</a></li>
+          <li><a href="{{ site.news }}">News</a></li>
+          <li><a href="{{ site.publications }}">Publications</a></li>
         </div>
         
         {% if site.github.is_project_page %}
