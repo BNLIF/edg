@@ -32,7 +32,13 @@
         {% endif %}
         
         <p class="view"><a href="https://docs.google.com/document/d/e/2PACX-1vQlFYyLXDoIAqKokFuQy13LO6yGX4Z6SPU2EUjBf7zS3YsMB9gDasYznWaKW59DW5bK4NfW6ZqdnACx/pub">Publications</a></p>
-         
+        
+        <div class="list-group">
+        <a href="{{ site.people }}" class="list-group-item list-group-item-action active">People</a>
+        <a href="{{ site.news }}" class="list-group-item list-group-item-action">News</a>
+        <a href="{{ site.publications }}" class="list-group-item list-group-item-action">Publications</a>
+        </div>
+        
         {% if site.github.is_project_page %}
         <p class="view"><small><a href="{{ site.github.repository_url }}">Edit on GitHub</a></small></p>
         {% endif %}
