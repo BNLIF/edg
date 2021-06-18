@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Electronic Detector Group @BNL
-logo: _logo/edg.png
+logo: assets/images/logo/edg.png
 description: 
 show_downloads: false
 people: https://www.phy.bnl.gov/edg/w/List_of_EDG_Members
