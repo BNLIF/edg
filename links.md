@@ -1,10 +1,11 @@
-Various links scattered around EDG.
+This page gathers the various links inside EDG and related to EDG research.
 
 ## EDG Related
 
 | Link         | Description       |
 |:-------------|:------------------|
 | [EDG Wiki](https://www.phy.bnl.gov/edg/w/) | good old wiki |
+| [EDG DocDB](https://www.phy.bnl.gov/bnlif/cgi-bin/private/DocumentDatabase) | document database |
 | [Journal Club](https://lar.bnl.gov/journal-club/) | journal club   |
 
 
