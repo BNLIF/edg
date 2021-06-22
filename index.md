@@ -4,7 +4,7 @@ We are an experimental particle physics research group in the [Physics Departmen
 * * *
 
 ## Current Experiments
-![Band](assets/images/edg-band-2.png)
+![Band](assets/images/experiments/edg-band-2.png)
 
 - Deep Underground Neutrino Experiment ([DUNE](https://www.dunescience.org/))
 - Short-baseline Neutrino Program ([SBN](https://sbn.fnal.gov/))   

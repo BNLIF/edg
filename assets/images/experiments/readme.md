@@ -1,0 +1,1 @@
+The "band" image of all experiments is created from individual logos using [this website](https://www.peko-step.com/en/tool/combine-images.html).
