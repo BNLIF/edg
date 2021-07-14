@@ -1,3 +1,5 @@
+url: https://www.phy.bnl.gov
+baseurl: /edg
 theme: jekyll-theme-minimal
 title: Electronic Detector Group @BNL
 logo: assets/images/logo/edg.png
