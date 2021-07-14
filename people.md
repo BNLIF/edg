@@ -1,7 +1,13 @@
+This page lists the current and previous members of the EDG. Their contact information can be found in the [Physics Department Directory](https://www.bnl.gov/physics/people/) and the [Physics Department Organization Chart](https://www.phy.bnl.gov/OrgChart/OrgChart.pdf).
+
 ## Current members
 
 | Name         | Position       |
 |:-------------|:------------------|
+| Steve Kettell | Group Leader |
+| [Mary Bishai](https://www.bnl.gov/staff/mbishai) | Deputy Group Leader |
+| [Milind Diwan](https://www.bnl.gov/staff/mdiwan) | Deputy Group Leader |
+| Tracy Trent | Administrator |
 | Angelo Di Canto | Physicist |
 | Bill Morse | Physicist |
 | Brett Viren | Physicist |
@@ -9,20 +15,15 @@
 | [David Jaffe](https://www.phy.bnl.gov/~djaffe/) | Physicist |
 | [Elizabeth Worcester](https://www.phy.bnl.gov/~etw/prof.html) | Physicist |
 | James Stewart | Physicist |
-| [Mary Bishai](https://www.bnl.gov/staff/mbishai) | Physicist |
-| Matt Worcester | Physicist |
-| [Milind Diwan](https://www.bnl.gov/staff/mdiwan) | Physicist |
 | Vladimir Tishchenko | Physicist |
-| Steve Kettell | Physicist |
 | [Xin Qian](https://www.bnl.gov/staff/xqian) | Physicist |
 | Shanshan Gao | Scientist |
 | Yichen Li | Scientist |
-| Tracy Trent | Administrator |
 | Manhong Zhao | Engineer |
-| Russ Burns | Technician |
 | Andrea Scarpelli | Postdoc |
 | Diana Mendez | Postdoc |
 | Dimitrii Torbunov | Postdoc |
+| Eaglekumar Tarpara | Postdoc |
 | Elena Zhivun | Postdoc |
 | Hanyu Wei | Postdoc |
 | Haiwang Yu | Postdoc |
@@ -43,7 +44,6 @@
 | James Frank | Physicist |
 | Laurence Littenberg | Physicist |
 | Robert Hackenburg | Physicist |
-| Joe Cracco | Technician |
 | Ralph Brown | Engineer |
 
 
@@ -52,6 +52,7 @@
 | Name         | Position       | Year (until)   |
 |:-------------|:---------------|-------------|
 | Aiwu Zhang | Postdoc | 2020 |
+| Matt Worcester | Scientist | 2020 |
 | Deborah Kerr | Administrator | 2020 |
 | Arbin Timilsina | Postdoc | 2019 |
 | Bilas Pal | Postdoc | 2019 |
@@ -71,12 +72,9 @@
 | Penka Novakova | Administrator |  |
 | Rahul Sharma | Engineer |  |
 | Jeffrey Dolph | Engineer |  |
+| David Adams | Scientist |  |
+| Maxim Potekhin | Scientist |
 
-
-### Other Links
-
-* [Physics Department Directory](https://www.bnl.gov/physics/people/)
-* [Physics Department Organization Chart](https://www.phy.bnl.gov/OrgChart/OrgChart.pdf)
 
 
 
