@@ -38,19 +38,19 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 ## Retired members
 
-| Name         | Position       |
-|:-------------|:------------------|
-| Craig Thorn | Physicist |
-| James Frank | Physicist |
-| Laurence Littenberg | Physicist |
-| Robert Hackenburg | Physicist |
-| Ralph Brown | Engineer |
+| Name         | Position       | Year (retired)   |
+|:-------------|:---------------|:---------------|
+| Craig Thorn | Physicist | 2021 |
+| Laurence Littenberg | Physicist | |
+| Robert Hackenburg | Physicist | |
+| Ralph Brown | Engineer | |
+| James Frank | Physicist | |
 
 
 ## Past members
 
 | Name         | Position       | Year (until)   |
-|:-------------|:---------------|-------------|
+|:-------------|:---------------|:-------------|
 | Aiwu Zhang | Postdoc | 2020 |
 | Matt Worcester | Scientist | 2020 |
 | Deborah Kerr | Administrator | 2020 |
