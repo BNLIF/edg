@@ -12,12 +12,14 @@
     <![endif]-->
     <style>
       a:hover {font-weight: normal; color:orangered}
+      h1 a:hover {font-weight: bold; color:orangered}
+      header {position: sticky; width: 200px;}
+      section {width: 600px;}
     </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -51,11 +53,12 @@
         </ul>
         {% endif %}
       </header>
+
       <section>
-
-      {{ content }}
-
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {{ content }}
       </section>
+
       <footer>
         <!-- remove by CZ 
         {% if site.github.is_project_page %}
