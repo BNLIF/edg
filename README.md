@@ -1,6 +1,6 @@
 This is the repo for the [EDG homepage](https://www.phy.bnl.gov/edg/). Anybody in the [BNLIF](https://github.com/BNLIF) organization can edit the repo. To become a member, contact any [existing owner](https://github.com/orgs/BNLIF/people?query=role%3Aowner).
 
-## Editing Instructions
+## Edit the pages
 
 The repo uses [GitHub Pages](https://pages.github.com/) to automatically publish the website after each commit. Currently, we have the following pages that can be edited:
  * [index.md](index.md)
