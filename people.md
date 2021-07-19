@@ -8,8 +8,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | [Mary Bishai](https://www.bnl.gov/staff/mbishai) | Deputy Group Leader |
 | [Milind Diwan](https://www.bnl.gov/staff/mdiwan) | Deputy Group Leader |
 | Tracy Trent | Administrator |
-| Angelo Di Canto | Physicist |
-| Bill Morse | Physicist |
+| [Angelo Di Canto](https://www.bnl.gov/staff/dicanto) | Physicist |
 | Brett Viren | Physicist |
 | [Chao Zhang](https://www.bnl.gov/staff/czhang) | Physicist |
 | [David Jaffe](https://www.phy.bnl.gov/~djaffe/) | Physicist |
@@ -41,11 +40,11 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Name         | Position       | Year (retired)   |
 |:-------------|:---------------|:---------------|
 | Craig Thorn | Physicist | 2021 |
-| Laurence Littenberg | Physicist | |
-| Robert Hackenburg | Physicist | |
-| Ralph Brown | Engineer | |
-| James Frank | Physicist | |
-
+| Robert Hackenburg | Physicist | 2020 |
+| Bill Morse | Physicist (emeritus) | 2018 |
+| Laurence Littenberg | Physicist (emeritus) | 2017 |
+| James Frank | Physicist | 2014 |
+| Ralph Brown | Engineer | 2011 |
 
 ## Past members
 
@@ -58,8 +57,11 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Bilas Pal | Postdoc | 2019 |
 | Brian Kirby | Postdoc | 2019 |
 | Jason Crnkovic | Postdoc | 2019 |
+| Rahul Sharma | Engineer | 2018 |
 | Jyoti Joshi | Postdoc | 2018 |
+| Penka Novakova | Administrator | 2017 |
 | Michael Mooney | Postdoc | 2017 |
+| Jeffrey Dolph | Engineer | 2016 |
 | Wei Tang | Postdoc | 2016 |
 | Lindsey Bignell | Postdoc | 2016 |
 | Donna Barci | Administrator | 2015 |
@@ -69,11 +71,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Zeynep Isvan | Postdoc | 2012 |
 | Lisa Whitehead | Postdoc | 2011 |
 | Zhe Wang | Postdoc | 2011 |
-| Penka Novakova | Administrator |  |
-| Rahul Sharma | Engineer |  |
-| Jeffrey Dolph | Engineer |  |
-| David Adams | Scientist |  |
-| Maxim Potekhin | Scientist |
+
 
 
 
