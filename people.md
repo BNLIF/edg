@@ -4,9 +4,9 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 | Name         | Position       |
 |:-------------|:------------------|
-| Steve Kettell | Group Leader |
-| [Mary Bishai](https://www.bnl.gov/staff/mbishai) | Deputy Group Leader |
-| [Milind Diwan](https://www.bnl.gov/staff/mdiwan) | Deputy Group Leader |
+| Steve Kettell | Physicist (Group Leader) |
+| [Mary Bishai](https://www.bnl.gov/staff/mbishai) | Physicist (Deputy Group Leader) |
+| [Milind Diwan](https://www.bnl.gov/staff/mdiwan) | Physicist (Deputy Group Leader) |
 | Tracy Trent | Administrator |
 | [Angelo Di Canto](https://www.bnl.gov/staff/dicanto) | Physicist |
 | Brett Viren | Physicist |
