@@ -6,18 +6,18 @@ We are an experimental particle physics research group in the [Physics Departmen
 ## Current Experiments
 ![Band](assets/images/experiments/edg-band-2.png)
 
-- Deep Underground Neutrino Experiment ([DUNE](https://www.dunescience.org/))
-- Short-baseline Neutrino Program ([SBN](https://sbn.fnal.gov/))   
+- [Deep Underground Neutrino Experiment](https://www.dunescience.org/) (DUNE)
+- [Short-baseline Neutrino Program](https://sbn.fnal.gov/) (SBN)   
   - [MicroBooNE](http://www-microboone.fnal.gov/)
   - [ICARUS](https://icarus.fnal.gov/)
   - [SBND](https://sbn-nd.fnal.gov/)
 - [Belle II](https://www.bnl.gov/belle2/)
-- [Daya Bay](https://www.bnl.gov/newsroom/tags/tags.php?tag=daya+bay)
+- [Daya Bay](http://dayabay.ihep.ac.cn/twiki/bin/view/Public/)
 - [PROSPECT](https://prospect.yale.edu/)
 - [Muon g-2](http://muon-g-2.fnal.gov/)
 
 ## R&D Projects
-- Liquid Argon Technology ([LAr@BNL](https://lar.bnl.gov/))
+- [Liquid Argon Technology](https://lar.bnl.gov/)
 - Water-based Liquid Scintillator
 
 ## Software and Computing
