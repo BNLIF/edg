@@ -51,6 +51,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Name         | Position       | Year (until)   |
 |:-------------|:---------------|:-------------|
 | Aiwu Zhang | Postdoc | 2020 |
+| Maura Spanu | Postdoc | 2020 |
 | Matt Worcester | Scientist | 2020 |
 | Deborah Kerr | Administrator | 2020 |
 | Arbin Timilsina | Postdoc | 2019 |
