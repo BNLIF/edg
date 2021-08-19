@@ -41,6 +41,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 |:-------------|:---------------|:---------------|
 | Craig Thorn | Physicist | 2021 |
 | Robert Hackenburg | Physicist | 2020 |
+| Deborah Kerr | Administrator | 2020 |
 | Bill Morse | Physicist (emeritus) | 2018 |
 | Laurence Littenberg | Physicist (emeritus) | 2017 |
 | James Frank | Physicist | 2014 |
@@ -53,7 +54,6 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Aiwu Zhang | Postdoc | 2020 |
 | Maura Spanu | Postdoc | 2020 |
 | Matt Worcester | Scientist | 2020 |
-| Deborah Kerr | Administrator | 2020 |
 | Arbin Timilsina | Postdoc | 2019 |
 | Bilas Pal | Postdoc | 2019 |
 | Brian Kirby | Postdoc | 2019 |
