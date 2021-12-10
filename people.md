@@ -24,7 +24,6 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Dimitrii Torbunov | Postdoc |
 | Eaglekumar Tarpara | Postdoc |
 | Elena Zhivun | Postdoc |
-| Hanyu Wei | Postdoc |
 | Haiwang Yu | Postdoc |
 | Mateus Carneiro | Postdoc |
 | Nitish Nayak | Postdoc |
@@ -51,6 +50,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 | Name         | Position       | Year (until)   |
 |:-------------|:---------------|:-------------|
+| Hanyu Wei | Postdoc | 2021 |
 | Aiwu Zhang | Postdoc | 2020 |
 | Maura Spanu | Postdoc | 2020 |
 | Matt Worcester | Scientist | 2020 |
