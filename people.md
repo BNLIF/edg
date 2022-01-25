@@ -26,6 +26,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Elena Zhivun | Postdoc |
 | Haiwang Yu | Postdoc |
 | Mateus Carneiro | Postdoc |
+| Michel Bertemes | Postdoc |
 | Nitish Nayak | Postdoc |
 | Nisar Nellikunnummel | Postdoc |
 | Sergey Martynenko | Postdoc |
@@ -46,7 +47,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | James Frank | Physicist | 2014 |
 | Ralph Brown | Engineer | 2011 |
 
-## Past members
+## Previous members
 
 | Name         | Position       | Year (until)   |
 |:-------------|:---------------|:-------------|
