@@ -32,7 +32,6 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Sergey Martynenko | Postdoc |
 | Wenqiang Gu | Postdoc |
 | Xiangpan Ji | Postdoc |
-| Michel Bertemes | Postdoc |
 
 
 
