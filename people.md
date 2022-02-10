@@ -8,7 +8,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | [Mary Bishai](https://www.bnl.gov/staff/mbishai) | Physicist (Deputy Group Leader) |
 | [Milind Diwan](https://www.bnl.gov/staff/mdiwan) | Physicist (Deputy Group Leader) |
 | Tracy Trent | Administrator |
-| [Angelo Di Canto](https://www.bnl.gov/staff/dicanto) | Physicist |
+| [Angelo Di Canto](https://adicanto.web.cern.ch/adicanto/) | Physicist |
 | Brett Viren | Physicist |
 | [Chao Zhang](https://www.bnl.gov/staff/czhang) | Physicist |
 | [David Jaffe](https://www.phy.bnl.gov/~djaffe/) | Physicist |
@@ -32,6 +32,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Sergey Martynenko | Postdoc |
 | Wenqiang Gu | Postdoc |
 | Xiangpan Ji | Postdoc |
+| Michel Bertemes | Postdoc |
 
 
 
