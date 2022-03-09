@@ -6,7 +6,7 @@ This page gathers the various news and articles related to EDG members and exper
 |:-------------|:------------------|:-----------|:-----------|
 | 2021.10 | MicroBooNE's Wire-Cell team | MicroBooNE | [BNL](https://www.bnl.gov/newsroom/news.php?a=219154) |
 | 2021.10 | MicroBooNE first LEE results | MicroBooNE | [BNL](https://www.bnl.gov/newsroom/news.php?a=119153) |
-| 2021.06 | MicroBooNE generic neutrino detection with Wire-Cell | MicroBooNE | [BNL](https://www.bnl.gov/newsroom/news.php?a=117324) |
+| 2021.06 | MicroBooNE generic neutrino detection with Wire-Cell | MicroBooNE | [BNL](https://www.bnl.gov/newsroom/news.php?a=117324), [DOE](https://www.energy.gov/science/hep/articles/spotting-accelerator-produced-neutrinos-cosmic-haystack) |
 | 2021.04 | Fermilab muon g-2 first results | Muon g-2 | [BNL](https://www.bnl.gov/newsroom/news.php?a=118760) |
 | 2020.12 | Daya Bay end of operation | Daya Bay | [BNL](https://www.bnl.gov/newsroom/news.php?a=117575) |
 | 2020.12 | ProtoDUNE first results | DUNE | [BNL](https://www.bnl.gov/newsroom/news.php?a=217596)
