@@ -4,6 +4,7 @@ This page gathers the various news and articles related to EDG members and exper
 
 | Year         | Description       | Who | Links      |
 |:-------------|:------------------|:-----------|:-----------|
+| 2022.06 | Daya Bay results from final dataset | Daya Bay | [BNL](https://www.bnl.gov/newsroom/news.php?a=119583) |
 | 2022.04 | MicroBooNE numuCC inclusive cross section measurement with Wire-Cell | MicroBooNE | [BNL](https://www.bnl.gov/newsroom/news.php?a=119357) |
 | 2021.10 | MicroBooNE's Wire-Cell team | MicroBooNE | [BNL](https://www.bnl.gov/newsroom/news.php?a=219154) |
 | 2021.10 | MicroBooNE first LEE results | MicroBooNE | [BNL](https://www.bnl.gov/newsroom/news.php?a=119153) |
