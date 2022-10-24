@@ -51,12 +51,12 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 | Name         | Position       | Year (until)   | Now at |
 |:-------------|:---------------|:-------------|:-------------|
-| Andrea Scarpelli | Postdoc | 2022 | |
+| Andrea Scarpelli | Postdoc | 2022 | Industry |
 | Hanyu Wei | Postdoc | 2021 | LSU faculty |
-| Aiwu Zhang | Postdoc | 2020 | |
+| Aiwu Zhang | Postdoc | 2020 | Industry |
 | Maura Spanu | Postdoc | 2020 | |
 | Matt Worcester | Scientist | 2020 | BNL scientist |
-| Arbin Timilsina | Postdoc | 2019 | |
+| Arbin Timilsina | Postdoc | 2019 | Industry |
 | Bilas Pal | Postdoc | 2019 | |
 | Brian Kirby | Postdoc | 2019 | |
 | Jason Crnkovic | Postdoc | 2019 | FNAL scientist |
