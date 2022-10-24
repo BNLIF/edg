@@ -49,31 +49,31 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 ## Previous members
 
-| Name         | Position       | Year (until)   |
-|:-------------|:---------------|:-------------|
-| Andrea Scarpelli | Postdoc | 2022 |
-| Hanyu Wei | Postdoc | 2021 |
-| Aiwu Zhang | Postdoc | 2020 |
-| Maura Spanu | Postdoc | 2020 |
-| Matt Worcester | Scientist | 2020 |
-| Arbin Timilsina | Postdoc | 2019 |
-| Bilas Pal | Postdoc | 2019 |
-| Brian Kirby | Postdoc | 2019 |
-| Jason Crnkovic | Postdoc | 2019 |
-| Rahul Sharma | Engineer | 2018 |
+| Name         | Position       | Year (until)   | Now at |
+|:-------------|:---------------|:-------------|:-------------|
+| Andrea Scarpelli | Postdoc | 2022 | |
+| Hanyu Wei | Postdoc | 2021 | LSU faculty |
+| Aiwu Zhang | Postdoc | 2020 | |
+| Maura Spanu | Postdoc | 2020 | |
+| Matt Worcester | Scientist | 2020 | BNL scientist |
+| Arbin Timilsina | Postdoc | 2019 | |
+| Bilas Pal | Postdoc | 2019 | |
+| Brian Kirby | Postdoc | 2019 | |
+| Jason Crnkovic | Postdoc | 2019 | FNAL scientist |
+| Rahul Sharma | Engineer | 2018 | BNL engineer |
 | Jyoti Joshi | Postdoc | 2018 |
 | Penka Novakova | Administrator | 2017 |
-| Michael Mooney | Postdoc | 2017 |
-| Jeffrey Dolph | Engineer | 2016 |
-| Wei Tang | Postdoc | 2016 |
-| Lindsey Bignell | Postdoc | 2016 |
-| Donna Barci | Administrator | 2015 |
-| Jiajie Ling | Postdoc | 2015 |
-| Harry Themann | Postdoc | 2014 |
-| Dmitriy Beznosko | Postdoc | 2013 |
-| Zeynep Isvan | Postdoc | 2012 |
-| Lisa Whitehead | Postdoc | 2011 |
-| Zhe Wang | Postdoc | 2011 |
+| Michael Mooney | Postdoc | 2017 | CSU faculty |
+| Jeffrey Dolph | Engineer | 2016 | |
+| Wei Tang | Postdoc | 2016 | |
+| Lindsey Bignell | Postdoc | 2016 | |
+| Donna Barci | Administrator | 2015 | |
+| Jiajie Ling | Postdoc | 2015 | SYSU faculty |
+| Harry Themann | Postdoc | 2014 | |
+| Dmitriy Beznosko | Postdoc | 2013 | |
+| Zeynep Isvan | Postdoc | 2012 | |
+| Lisa Whitehead | Postdoc | 2011 | UH faculty |
+| Zhe Wang | Postdoc | 2011 | THU faculty |
 
 
 
