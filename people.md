@@ -20,7 +20,6 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Shanshan Gao | Scientist |
 | Yichen Li | Scientist |
 | Manhong Zhao | Engineer |
-| Andrea Scarpelli | Postdoc |
 | Diana Mendez | Postdoc |
 | Dimitrii Torbunov | Postdoc |
 | Eaglekumar Tarpara | Postdoc |
@@ -52,6 +51,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 | Name         | Position       | Year (until)   |
 |:-------------|:---------------|:-------------|
+| Andrea Scarpelli | Postdoc | 2022 |
 | Hanyu Wei | Postdoc | 2021 |
 | Aiwu Zhang | Postdoc | 2020 |
 | Maura Spanu | Postdoc | 2020 |
