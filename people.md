@@ -58,7 +58,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Matt Worcester | Scientist | 2020 | BNL scientist |
 | Arbin Timilsina | Postdoc | 2019 | Industry |
 | Bilas Pal | Postdoc | 2019 | |
-| Brian Kirby | Postdoc | 2019 | |
+| Brian Kirby | Postdoc | 2019 | Columbia U. staff |
 | Jason Crnkovic | Postdoc | 2019 | FNAL scientist |
 | Rahul Sharma | Engineer | 2018 | BNL engineer |
 | Jyoti Joshi | Postdoc | 2018 |
@@ -66,7 +66,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Michael Mooney | Postdoc | 2017 | CSU faculty |
 | Jeffrey Dolph | Engineer | 2016 | |
 | Wei Tang | Postdoc | 2016 | |
-| Lindsey Bignell | Postdoc | 2016 | |
+| Lindsey Bignell | Postdoc | 2016 | ANU staff |
 | Donna Barci | Administrator | 2015 | |
 | Jiajie Ling | Postdoc | 2015 | SYSU faculty |
 | Harry Themann | Postdoc | 2014 | |
