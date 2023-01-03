@@ -22,7 +22,6 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Manhong Zhao | Engineer |
 | Diana Mendez | Postdoc |
 | Dimitrii Torbunov | Postdoc |
-| Eaglekumar Tarpara | Postdoc |
 | Elena Zhivun | Postdoc |
 | Hanjie Liu | Postdoc |
 | Mateus Carneiro | Postdoc |
@@ -51,6 +50,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 | Name         | Position       | Year (until)   | Now at |
 |:-------------|:---------------|:-------------|:-------------|
+| Eaglekumar Tarpara | Postdoc | 2022 | |
 | Andrea Scarpelli | Postdoc | 2022 | Industry |
 | Hanyu Wei | Postdoc | 2021 | LSU faculty |
 | Aiwu Zhang | Postdoc | 2020 | Industry |
