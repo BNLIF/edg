@@ -14,23 +14,26 @@ This page lists the current and previous members of the EDG. Their contact infor
 | [David Jaffe](https://www.phy.bnl.gov/~djaffe/) | Physicist |
 | [Elizabeth Worcester](https://www.phy.bnl.gov/~etw/prof.html) | Physicist |
 | James Stewart | Physicist |
+| Jay Jo | Physicist |
 | Vladimir Tishchenko | Physicist |
 | [Xin Qian](https://www.bnl.gov/staff/xqian) | Physicist |
 | Haiwang Yu | Scientist |
 | Shanshan Gao | Scientist |
 | Yichen Li | Scientist |
 | Manhong Zhao | Engineer |
+| Nicholas Joniak | Engineer |
 | Diana Mendez | Postdoc |
 | Dimitrii Torbunov | Postdoc |
 | Elena Zhivun | Postdoc |
 | Hanjie Liu | Postdoc |
+| Lingyun Ke | Postdoc |
 | Mateus Carneiro | Postdoc |
+| Matteo Vicenzi | Postdoc | 
 | Michel Bertemes | Postdoc |
 | Nitish Nayak | Postdoc |
 | Nisar Nellikunnummel | Postdoc |
 | Sergey Martynenko | Postdoc |
 | Wenqiang Gu | Postdoc |
-| Xiangpan Ji | Postdoc |
 
 
 
@@ -50,6 +53,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 | Name         | Position       | Year (until)   | Now at |
 |:-------------|:---------------|:-------------|:-------------|
+| Xiangpan Ji | Postdoc | 2023 | Nankai U. faculty |
 | Eaglekumar Tarpara | Postdoc | 2022 | |
 | Andrea Scarpelli | Postdoc | 2022 | Industry |
 | Hanyu Wei | Postdoc | 2021 | LSU faculty |
