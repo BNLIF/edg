@@ -25,7 +25,6 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Diana Mendez | Postdoc |
 | Dimitrii Torbunov | Postdoc |
 | Elena Zhivun | Postdoc |
-| Hanjie Liu | Postdoc |
 | Lingyun Ke | Postdoc |
 | Mateus Carneiro | Postdoc |
 | Matteo Vicenzi | Postdoc | 
@@ -53,6 +52,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 
 | Name         | Position       | Year (until)   | Now at |
 |:-------------|:---------------|:-------------|:-------------|
+| Hanjie Liu | Postdoc | 2023 | JLab staff |
 | Xiangpan Ji | Postdoc | 2023 | Nankai U. faculty |
 | Eaglekumar Tarpara | Postdoc | 2022 | |
 | Andrea Scarpelli | Postdoc | 2022 | Industry |
