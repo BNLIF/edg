@@ -14,7 +14,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | [David Jaffe](https://www.phy.bnl.gov/~djaffe/) | Physicist |
 | [Elizabeth Worcester](https://www.phy.bnl.gov/~etw/prof.html) | Physicist |
 | James Stewart | Physicist |
-| Jay Jo | Physicist |
+| [Jay Hyun Jo](https://www.jayhyunjo.com/) | Physicist |
 | Vladimir Tishchenko | Physicist |
 | [Xin Qian](https://www.bnl.gov/staff/xqian) | Physicist |
 | Haiwang Yu | Scientist |
