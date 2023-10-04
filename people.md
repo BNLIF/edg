@@ -18,7 +18,9 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Vladimir Tishchenko | Physicist |
 | [Xin Qian](https://www.bnl.gov/staff/xqian) | Physicist |
 | Haiwang Yu | Scientist |
+| Mateus Carneiro | Scientist |
 | Shanshan Gao | Scientist |
+| Wenqiang Gu | Scientist |
 | Yichen Li | Scientist |
 | Manhong Zhao | Engineer |
 | Nicholas Joniak | Engineer |
@@ -26,13 +28,13 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Dimitrii Torbunov | Postdoc |
 | Elena Zhivun | Postdoc |
 | Lingyun Ke | Postdoc |
-| Mateus Carneiro | Postdoc |
 | Matteo Vicenzi | Postdoc | 
 | Michel Bertemes | Postdoc |
 | Nitish Nayak | Postdoc |
 | Nisar Nellikunnummel | Postdoc |
 | Sergey Martynenko | Postdoc |
-| Wenqiang Gu | Postdoc |
+| Yifan Jin | Postdoc |
+| Yousen Zhang | Postdoc |
 
 
 
