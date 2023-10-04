@@ -26,12 +26,9 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Nicholas Joniak | Engineer |
 | Diana Mendez | Postdoc |
 | Dimitrii Torbunov | Postdoc |
-| Elena Zhivun | Postdoc |
 | Lingyun Ke | Postdoc |
 | Matteo Vicenzi | Postdoc | 
-| Michel Bertemes | Postdoc |
 | Nitish Nayak | Postdoc |
-| Nisar Nellikunnummel | Postdoc |
 | Sergey Martynenko | Postdoc |
 | Yifan Jin | Postdoc |
 | Yousen Zhang | Postdoc |
@@ -56,7 +53,9 @@ This page lists the current and previous members of the EDG. Their contact infor
 |:-------------|:---------------|:-------------|:-------------|
 | Hanjie Liu | Postdoc | 2023 | JLab staff |
 | Xiangpan Ji | Postdoc | 2023 | Nankai U. faculty |
-| Eaglekumar Tarpara | Postdoc | 2022 | |
+| Elena Zhivun | Postdoc | 2023 | Industry |
+| Nisar Nellikunnummel | Postdoc | 2022 | NSLS-II |
+| Eaglekumar Tarpara | Postdoc | 2022 | Industry |
 | Andrea Scarpelli | Postdoc | 2022 | Industry |
 | Hanyu Wei | Postdoc | 2021 | LSU faculty |
 | Aiwu Zhang | Postdoc | 2020 | Industry |
