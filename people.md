@@ -5,8 +5,8 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Name         | Position       |
 |:-------------|:------------------|
 | Steve Kettell | Physicist (Group Leader) |
-| [Mary Bishai](https://www.bnl.gov/staff/mbishai) | Physicist (Deputy Group Leader) |
 | [Milind Diwan](https://www.bnl.gov/staff/mdiwan) | Physicist (Deputy Group Leader) |
+| [Xin Qian](https://www.bnl.gov/staff/xqian) | Physicist (Deputy Group Leader) |
 | Tracy Trent | Administrator |
 | [Angelo Di Canto](https://adicanto.web.cern.ch/adicanto/) | Physicist |
 | Brett Viren | Physicist |
@@ -15,8 +15,8 @@ This page lists the current and previous members of the EDG. Their contact infor
 | [Elizabeth Worcester](https://www.phy.bnl.gov/~etw/prof.html) | Physicist |
 | James Stewart | Physicist |
 | [Jay Hyun Jo](https://www.jayhyunjo.com/) | Physicist |
+| [Mary Bishai](https://www.bnl.gov/staff/mbishai) | Physicist |
 | Vladimir Tishchenko | Physicist |
-| [Xin Qian](https://www.bnl.gov/staff/xqian) | Physicist |
 | Haiwang Yu | Scientist |
 | Mateus Carneiro | Scientist |
 | Shanshan Gao | Scientist |
