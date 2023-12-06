@@ -26,6 +26,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Nicholas Joniak | Engineer |
 | Diana Mendez | Postdoc |
 | Dimitrii Torbunov | Postdoc |
+| Karla Flores | Postdoc |
 | Lingyun Ke | Postdoc |
 | Matteo Vicenzi | Postdoc | 
 | Nitish Nayak | Postdoc |
