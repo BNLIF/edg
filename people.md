@@ -31,6 +31,7 @@ This page lists the current and previous members of the EDG. Their contact infor
 | Matteo Vicenzi | Postdoc | 
 | Nitish Nayak | Postdoc |
 | Sergey Martynenko | Postdoc |
+| Xuyang Ning | Postdoc |
 | Yifan Jin | Postdoc |
 | Yousen Zhang | Postdoc |
 
