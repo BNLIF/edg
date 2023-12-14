@@ -7,7 +7,7 @@ This page gathers the various links inside EDG and related to EDG research.
 | [EDG Wiki](https://www.phy.bnl.gov/edg/w/) | good old wiki |
 | [EDG DocDB](https://www.phy.bnl.gov/bnlif/cgi-bin/private/DocumentDatabase) | EDG document database |
 | [EDG GitHub](https://github.com/BNLIF) | EDG GitHub repo |
-| [Physics Department Computing Wiki][https://www.phy.bnl.gov/computing/index.php] | Computing setup and resources |
+| [Physics Department Computing Wiki](https://www.phy.bnl.gov/computing/index.php) | Computing setup and resources |
 | [HEP seminar](https://indico.bnl.gov/category/134/) | BNL particle physics seminar |
 | [Journal Club](https://lar.bnl.gov/journal-club/) | EDG journal club  |
 
